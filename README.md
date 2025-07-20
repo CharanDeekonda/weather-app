@@ -4,7 +4,7 @@ A simple and clean web application that provides real-time weather information f
 
 ---
 
-# ## Live Demo
+# Live Demo
 
 You can view the live application here:
 
@@ -13,7 +13,7 @@ You can view the live application here:
 ---
 
 
-# ## Features
+# Features
 
 * **Real-time Weather Data:** Get the current temperature, weather condition (e.g., Clouds, Rain), and a descriptive icon.
 * **City Search:** Search for any city worldwide to get its weather forecast.
@@ -23,7 +23,7 @@ You can view the live application here:
 
 ---
 
-# ## Technologies Used
+# Technologies Used
 
 * **HTML5:** For the structure of the web page.
 * **CSS3:** For styling, layout, and responsive design.
@@ -32,7 +32,7 @@ You can view the live application here:
 
 ---
 
-# ## How To Use
+# How To Use
 
 To run this project locally, simply download the files and open the `index.html` file in your web browser.
 
